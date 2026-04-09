@@ -16,7 +16,7 @@
 * **Operations:** 1.4 Years at Operations With Scalable Intelligence(Scale & Policy)
 * **AI/ML:** Conversational AI & NLP Development (Current Intern)
 * **Business:** Strategy & Workflow Optimization (Narwin Co. Experience)
-* **Tech Stack:** `Python` • `SQL` • `NLP` • `Power BI` • `Tableau`
+* **Tech Stack:** `Python` • `SQL` • `NLP` • `Power BI` 
 
 ---
 
