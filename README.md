@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=0984e3&center=true&vCenter=true&width=800&height=70&lines=SAI+SATWIK+STK;TECHNICAL+OPERATIONS+STRATEGIST;AI+/+ML+ENGINEER+INTERN;DATA+OPERATIONAL+ASSOCIATE&++BI+EXPERT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=0984e3&center=true&vCenter=true&width=800&height=70&lines=SAI+SATWIK+STK;TECHNICAL+OPERATIONS+STRATEGIST;AI+/+ML+ENGINEER+INTERN;DATA+OPERATIONAL+ASSOCIATE;SPECIALIZED+LOW+CODE+AI+SOLUTIONS&++BI+EXPERT" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <kbd><b>TRUST & SAFETY</b></kbd> • <kbd><b>AI/ML OPERATIONS</b></kbd> • <kbd><b>DATA ASSOCIATE</b></kbd>
+  <kbd><b>TRUST & SAFETY</b></kbd> • <kbd><b>AI/ML ENGINEER</b></kbd> • <kbd><b>DATA ASSOCIATE(OPERATIONS)</b></kbd> 
 </p>
 
 <p align="center">
